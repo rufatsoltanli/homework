@@ -1,0 +1,18 @@
+body{background-image: url(https://assets.editorial.aetnd.com/uploads/2013/08/moon-gettyimages-490413228.jpg);
+background-size: cover;  
+}
+p{
+text-align: center;
+color:rgb(70, 66, 62);
+font-size: 75px;
+margin-top: 15%;
+width: 45%;
+margin:0 auto;
+margin-top: 18%;
+transition: 0.35s;
+}
+p:hover{
+    color:rgb(71, 104, 119);
+ font-size: 175px;
+
+
