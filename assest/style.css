@@ -1,0 +1,234 @@
+body{
+    font-family: 'Gabarito', sans-serif;
+}
+.wrapper{
+    border: 1px solid black;
+    margin: 100px;
+    width: 1350px;
+    border-radius: 19px;
+    background-color: rgb(181, 181, 255);
+}
+    
+
+.card1{
+    position: relative;
+    border: 1px solid black;
+    width: 250px;
+    height: 120px;
+    margin: 40px;
+    background-color: rgb(94, 121, 143);
+    border-radius: 10px;
+    transition: .5s;
+    display: inline-block;
+}
+.textarea1{
+    margin: 20px;
+}
+.heading1{
+    padding-right: 35px;
+    color: rgb(37, 43, 49);
+    
+
+}
+.number1{
+    margin-top: 8px;
+    margin-bottom: 15px;
+    
+}
+.since1{
+    margin-left: 10px;
+    color: rgb(37, 43, 49);
+}
+.sp1{
+    color: rgb(25, 230, 202)
+}
+.fa-bitcoin{
+    color: gold;
+    margin: 2px;
+}
+.icon1{
+    position: absolute;
+    right: 8px;
+    top: 6px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: black;
+    
+}
+.card1:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+/* number 2 */
+.card2{
+    position: relative;
+    border: 1px solid black;
+    width: 250px;
+    height: 120px;
+    margin: 40px;
+    background-color: rgb(94, 121, 143);
+    border-radius: 10px;
+    transition: .5s;
+    display: inline-block;
+}
+.textarea2{
+    margin: 20px;
+}
+.heading2{
+    padding-right: 35px;
+    color: rgb(37, 43, 49);
+    
+
+}
+.number2{
+    margin-top: 8px;
+    margin-bottom: 15px;
+    
+}
+.since2{
+    margin-left: 10px;
+    color: rgb(37, 43, 49);
+}
+.sp2{
+    color: rgb(25, 230, 202);
+}
+.fa-user-large{
+    color: rgb(11, 114, 145);
+    margin: 2px;
+    margin-bottom: 2px;
+}
+.icon2{
+    position: absolute;
+    right: 8px;
+    top: 6px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+}
+.card2:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+/* number 3 */
+.card3{
+    position: relative;
+    border: 1px solid black;
+    width: 250px;
+    height: 120px;
+    margin: 40px;
+    background-color: rgb(94, 121, 143);
+    border-radius: 10px;
+    transition: .5s;
+    display: inline-block;
+}
+.textarea3{
+    margin: 20px;
+}
+.heading3{
+    padding-right: 35px;
+    color: rgb(37, 43, 49);
+    
+
+}
+.number3{
+    margin-top: 8px;
+    margin-bottom: 15px;
+    
+}
+.since3{
+    margin-left: 10px;
+    color: rgb(37, 43, 49);
+}
+.sp3{
+    color: rgb(83, 12, 12);
+}
+ .fa-person-walking{
+    color: rgb(11, 58, 145);
+    margin: 2px;
+    margin-bottom: 2px; 
+    margin-left: 5px;
+
+ }
+.icon3{
+    position: absolute;
+    right: 8px;
+    top: 6px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+}
+.card3:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+/* number 4 */
+.card4{
+    position: relative;
+    border: 1px solid black;
+    width: 250px;
+    height: 120px;
+    margin: 40px;
+    background-color: rgb(94, 121, 143);
+    border-radius: 10px;
+    transition: .5s;
+    display: inline-block;
+}
+.textarea4{
+    margin: 20px;
+}
+.heading4{
+    padding-right: 35px;
+    color: rgb(37, 43, 49);
+    
+
+}
+.number4{
+    margin-top: 8px;
+    margin-bottom: 15px;
+    
+}
+.since4{
+    margin-left: 10px;
+    color: rgb(37, 43, 49);
+}
+.sp4{
+    color: rgb(25, 230, 202);
+}
+ .fa-person-walking{
+    color: rgb(11, 58, 145);
+    margin: 2px;
+    margin-bottom: 2px; 
+    margin-left: 5px;
+
+ }
+.icon4{
+    position: absolute;
+    right: 8px;
+    top: 6px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    
+}
+.fa-shop{
+    color: rgb(12, 15, 19);
+    font-size: 14px;
+    margin: 1px;
+}
+.card4:hover{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+/* end */
+.span1{
+    text-decoration: underline;
+}
+.span2{
+    text-decoration: underline;
+}
+.span3{
+    text-decoration: underline;
+}
+.span4{
+    text-decoration: underline;
+}
